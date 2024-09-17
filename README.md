@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm kiret Chowdhary s/o Rahul Vhowdharty<br>
+👋 Hi, I'm Kiret Oberoi<br>
 👨‍💻 I am interested in Software Development and Cloud Computing<br>
-📄 Microsoft Certified : Azure Fundamentals<br>
 🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
-📫 How to reach me <a href = "rahulchowdhary529@gmail.com">rahulchowdhary529@gmail.com</a>
+📫 How to reach me <a href = "kiretoberoi@gmail.com">kiretoberoi@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
